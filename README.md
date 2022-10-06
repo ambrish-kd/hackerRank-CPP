@@ -1,4 +1,4 @@
 HackerRank-CPP
----------------------------
+----------------------------
 
-• This is a repository containing solutions of c++ of hackerrank.
+• This is a repository containing solutions of C++ of hackerrank.
